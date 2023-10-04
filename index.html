@@ -7,6 +7,12 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+    <!-- Add a container for the background -->
+    <div id="background-container">
+        <spline-viewer url="https://prod.spline.design/OcJm-EgP790APp9T/scene.splinecode"></spline-viewer>
+    </div>
+
+    <!-- Add your content container on top -->
     <div class="container">
         <h1>Coming Soon</h1>
         <p>We're working on something exciting. Stay tuned!</p>
@@ -29,6 +35,11 @@
             </div>
         </div>
     </div>
+
     <script src="script.js"></script>
+
+    <!-- Load Spline Viewer script after the page content -->
+    <script type="module" src="https://unpkg.com/@splinetool/viewer@0.9.465/build/spline-viewer.js"></script>
+
 </body>
 </html>
