@@ -24,7 +24,11 @@ body {
     z-index: 1; /* Place the content above the background */
     text-align: center;
     font-family: Arial, sans-serif;
+<<<<<<< HEAD
     color: #ffffff; /* Set text color to be visible against the background */
+=======
+    color: #000000; /* Set text color to be visible against the background */
+>>>>>>> 67964425695f9060301c88fc1b934bfc3797b4b6
     padding: 20px;
 }
 h1 {
