@@ -22,9 +22,6 @@ Septicon is a powerful generative AI integrated into the Linux operating system,
 - **Integration with Linux OS:**
   - Seamlessly integrated into the Linux operating system.
 
-- **Automatic File Syncing:**
-  - Syncs user project files to the cloud whenever the user logs in from a different device.
-
 ## Additional Features
 
 - **Language Translation:**
