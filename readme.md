@@ -1,4 +1,4 @@
-# Septicon - Your AI-powered Linux Companion
+# Septicon - AI-powered Linux Companion
 
 Septicon is a powerful generative AI integrated into the Linux operating system, designed to enhance your productivity and simplify a wide range of tasks. From sending bulk emails to generating code, music, and images, Septicon is your go-to AI companion.
 
